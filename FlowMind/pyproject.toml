@@ -1,0 +1,5 @@
+[project]
+name = "flowmind"
+version = "0.1.0"
+description = "An intelligent process automation platform powered by Python and AI."
+requires-python = ">=3.13"
